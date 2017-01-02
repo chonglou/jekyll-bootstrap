@@ -1,4 +1,4 @@
-# jetkyll-bootstrap
+# jekyll-bootstrap
 Bootstrap(v4) theme for Jekyll
 
 ## Installation
@@ -6,13 +6,13 @@ Bootstrap(v4) theme for Jekyll
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "jetkyll-bootstrap", git:"https://github.com/chonglou/jetkyll-bootstrap.git"
+gem "jekyll-bootstrap", git:"https://github.com/chonglou/jekyll-bootstrap.git"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: bootstrap
+theme: jekyll-bootstrap
 ```
 
 And then execute:
@@ -22,7 +22,7 @@ $ bundle install
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/chonglou/jetkyll-bootstrap
+Bug reports and pull requests are welcome on GitHub at https://github.com/chonglou/jekyll-bootstrap
 
 ## License
 

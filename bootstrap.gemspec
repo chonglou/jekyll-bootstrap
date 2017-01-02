@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "bootstrap"
+  spec.name          = "jekyll-bootstrap"
   spec.version       = "0.1.0"
   spec.authors       = ["Jitang Zheng"]
   spec.email         = ["jitang.zheng@gmail.com"]
 
   spec.summary       = %q{Bootstrap(v4) theme for Jekyll}
-  spec.homepage      = "https://github.com/chonglou/jetkyll-bootstrap"
+  spec.homepage      = "https://github.com/chonglou/jekyll-bootstrap"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
